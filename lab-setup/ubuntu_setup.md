@@ -1,6 +1,3 @@
-Here's a clean, script-like format you can copy-paste directly into GitHub (Markdown). Just use it as your `README.md` or lab document.
-
-```markdown
 # Week 1 Lab: Installing Ubuntu on VirtualBox for Wazuh
 
 ## Learning Outcomes
@@ -90,5 +87,5 @@ Look for IP address (e.g., `192.168.x.x`). Save this for PuTTY/WinSCP.
 
 ---
 
-**Lab Complete ✅**
+**Lab Complete **
 ```
