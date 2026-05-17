@@ -23,6 +23,7 @@ Configure PuTTY to remotely access the Ubuntu VM from Windows for command-line m
 3. Save to Desktop or Downloads folder
 4. No installation needed - just double-click to run
 ```
+![image atl](https://github.com/nodisadia/Wahzuh/blob/dfaa6d8cff0ae82cdcb9f6116e57fc1fcb5a7ab7/lab-setup/picture/Screenshot%202026-05-17%20110648.png)
 
 ## Step 2: Find Ubuntu VM IP Address
 ```bash
@@ -49,7 +50,9 @@ ip a
 9. Login as: wazuh-user
 10. Password: [type your password - it won't show]
 ```
-
+![image alt](https://github.com/nodisadia/Wahzuh/blob/dfaa6d8cff0ae82cdcb9f6116e57fc1fcb5a7ab7/lab-setup/picture/Screenshot%202026-05-16%20193015.png)
+![image alt](https://github.com/nodisadia/Wahzuh/blob/dfaa6d8cff0ae82cdcb9f6116e57fc1fcb5a7ab7/lab-setup/picture/Screenshot%202026-05-16%20193025.png)
+![image alt](https://github.com/nodisadia/Wahzuh/blob/dfaa6d8cff0ae82cdcb9f6116e57fc1fcb5a7ab7/lab-setup/picture/Screenshot%202026-05-16%20193058.png)
 ## Step 4: Verify Connection
 ```bash
 # After login, you should see:
